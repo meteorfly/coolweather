@@ -1,4 +1,4 @@
-package com.coolweather.app.activity;
+package com.coolweather.app;
 
 import com.coolweather.app.R;
 import com.coolweather.app.R.layout;
